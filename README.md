@@ -8,7 +8,7 @@ Each project demonstrates a different facet of my practical skills in Excel and 
 
 ## 📊 Project 1: Palmoria Group – HR Dashboard (Power BI)
 - **Instructor**: [Temidayo 'TeeDee' AYENI]
-- **Repository**: 👉 [Palmoria HR Dashboard Repo](https://github.com/YourUsername/Palmoria-Group-HR)
+- **Repository**: 👉 [Palmoria HR Dashboard Repo](https://github.com/AMO-05/Palmoria-HR-Capstone-Project)
 - **Tools Used**: Power BI, DAX, Data Modeling
 - **Summary**:
   Developed an interactive HR analytics dashboard that analyzes employee demographics, salary structure, performance ratings, and compliance with regulatory standards (e.g., minimum salary rule). It includes visual insights like gender distribution, pay gap analysis, and calculated bonus allocation.
