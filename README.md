@@ -17,7 +17,7 @@ Each project demonstrates a different facet of my practical skills in Excel and 
 
 ## 🛒 Project 2: Amazon Product Review Analysis (Excel)
 - **Instructor**: [Muhsin 'Idowu' Hammed]
-- **Repository**: 👉 [Amazon Product Review Repo](https://github.com/AMO-05/Amazon_Product_Capstone_Project))
+- **Repository**: 👉 [Amazon Product Review Repo]([https://github.com/AMO-05/Amazon_Product_Capstone_Project)]
 - **Tools Used**: Microsoft Excel, Pivot Tables, Formulas, Charts
 - **Summary**:
   Conducted an Excel-based data analysis on Amazon product reviews to explore discount patterns, average product ratings, review volumes, potential revenue estimation, and other key business metrics. The final dashboard presents actionable insights in a clean and interactive layout.
